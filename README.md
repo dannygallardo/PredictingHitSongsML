@@ -56,4 +56,3 @@ These results indicate a high level of accuracy in predicting hits, reinforcing 
 ## Conclusion
 
 The predictions from our model are saved in 'Final_PredictedNewHits.csv', providing insights into which new tracks might become future hits. This project not only highlights the potential of machine learning in the music industry but also offers a valuable tool for artists, producers, and labels to forecast track success.
-You can copy this content into a .md file using any text editor or a Markdown editor to preserve the formatting and structure.
