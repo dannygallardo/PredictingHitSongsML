@@ -60,3 +60,20 @@ The predictions from our model are saved in 'Final_PredictedNewHits.csv', provid
 **Visualiatzations**
 
 ![image](https://github.com/Project2andTeam9/Team_9/assets/154397635/0b513399-c450-4218-98ec-d1b8c914b57b)
+
+![image (1)](https://github.com/Project2andTeam9/Team_9/assets/154397635/7ef3d716-748d-4dce-a76a-a9bace2babd3)
+
+![image (2)](https://github.com/Project2andTeam9/Team_9/assets/154397635/153c0a0f-2aae-4bcb-9c54-b955afbe0047)
+
+![image (3)](https://github.com/Project2andTeam9/Team_9/assets/154397635/4c93fa92-1537-4ea9-b741-f525c1cde4cb)
+
+![image (4)](https://github.com/Project2andTeam9/Team_9/assets/154397635/11f00ab7-6969-4f3e-81b0-453283da31f0)
+
+![image (5)](https://github.com/Project2andTeam9/Team_9/assets/154397635/c3f8d3e5-4d2c-4804-92ea-560df132dbc4)
+
+![image (6)](https://github.com/Project2andTeam9/Team_9/assets/154397635/7166ab9d-8417-4a1d-a455-c9fc538d4eb6)
+
+![NumberOfBigHitsandLowHits](https://github.com/Project2andTeam9/Team_9/assets/154397635/7e17fe2f-e1e7-4b36-a6dd-374b6a1fddcc)
+
+![TrackAppearanceFrequencies](https://github.com/Project2andTeam9/Team_9/assets/154397635/b19d93ab-bdbf-4b95-9b52-1d09352cbd15)
+
