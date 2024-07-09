@@ -59,4 +59,4 @@ The predictions from our model are saved in 'Final_PredictedNewHits.csv', provid
 
 **Visualiatzations**
 
-![](https://files.slack.com/files-pri/T06G91DE1L7-F07BC98H24E/image.png)
+![image](https://github.com/Project2andTeam9/Team_9/assets/154397635/0b513399-c450-4218-98ec-d1b8c914b57b)
